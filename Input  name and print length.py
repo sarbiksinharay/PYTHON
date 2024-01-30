@@ -1,0 +1,2 @@
+str1=input("ENTER YOUR NAME:")
+print("YOUR NAME",str1,"\nYOU HAVE",len(str1),"CHARACTERS/LETTERS INCLUDING SPACES")
